@@ -15,10 +15,10 @@ Following the maze, will be an initial row and column specified as two integers 
 
 The valid commands are:
 
-> R rotate the robot 90 degrees clockwise (to the right)
-> L rotate the robot 90 degrees counter-clockwise (to the left)
-> F move the robot forward, unless a wall prevents this, in which case do nothing
-> Q quit the program, printing out the current robot row, column and orientation
+- R rotate the robot 90 degrees clockwise (to the right).
+- L rotate the robot 90 degrees counter-clockwise (to the left).
+- F move the robot forward, unless a wall prevents this, in which case do nothing.
+- Q quit the program, printing out the current robot row, column and orientation.
 
 ##Output
 
