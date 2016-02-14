@@ -13,7 +13,9 @@ are represented by lines with arrowheads. The first two of these are trees, but 
 In this problem you will be given several descriptions of collections of nodes connected by directed edges. 
 For each of these you are to determine if the collection satisfies the definition of a tree or not.
 
-[[image]][1]
+![alt tag](https://raw.githubusercontent.com/alvarojoao/programmingChallenges/master/is-it-a-tree/image/615img2.gif)
+![alt tag](https://raw.githubusercontent.com/alvarojoao/programmingChallenges/master/is-it-a-tree/image/615img3.gif)
+![alt tag](https://raw.githubusercontent.com/alvarojoao/programmingChallenges/master/is-it-a-tree/image/615img4.gif)
 
 ##Input 
 
@@ -50,6 +52,3 @@ Case 2 is a tree.
 Case 3 is not a tree.
 ```
 
-[1](https://uva.onlinejudge.org/external/6/615img2.gif)
-[2](https://uva.onlinejudge.org/external/6/615img3.gif)
-[3](https://uva.onlinejudge.org/external/6/615img4.gif)
